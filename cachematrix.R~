@@ -2,7 +2,6 @@
 ## functions do
 
 ## Write a short comment describing this function
-## matrix inversion using cache
 
 makeCacheMatrix <- function(x = matrix()) {
         imtx=NULL
